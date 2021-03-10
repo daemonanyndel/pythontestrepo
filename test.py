@@ -6,3 +6,5 @@ def test_add():
     num2 = 2
     results = num1 + num2
     assert results == 5
+
+test_add()
